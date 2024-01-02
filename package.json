@@ -1,13 +1,20 @@
 {
-  "name": "eslint-custom-rule-example",
+  "name": "eslint-plugin-otter-cute",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "ESLint plugin for enforce-otter-cute rule.",
+  "main": "eslint-plugin-example.js",
   "scripts": {
     "test": "node enforce-otter-cute.test.js"
   },
-  "keywords": [],
-  "author": "",
+  "peerDependencies": {
+    "eslint": ">=8.0.0"
+  },
+  "keywords": [
+    "eslint",
+    "eslintplugin",
+    "eslint-plugin"
+  ],
+  "author": "Maxime Menotti",
   "license": "ISC",
   "devDependencies": {
     "eslint": "^8.56.0"
