@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-otter-cute",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "ESLint plugin for enforce-otter-cute rule.",
   "main": "eslint-plugin-example.js",
   "scripts": {
